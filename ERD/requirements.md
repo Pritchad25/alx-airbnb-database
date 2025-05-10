@@ -1,0 +1,1 @@
+- a link to the Entities Relationship diagram: https://dbdiagram.io/d/Airbnb-ERD-674583d2e9daa85acab9abb0
